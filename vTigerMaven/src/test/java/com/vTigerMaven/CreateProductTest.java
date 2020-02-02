@@ -36,6 +36,6 @@ public class CreateProductTest extends Base
 		
 		cnp.createProduct(prodName, man, cat, ven, imgPath, driver);
 		
-		System.out.println("Bye");		
+		System.out.println("All the Best");		
 	}
 }
